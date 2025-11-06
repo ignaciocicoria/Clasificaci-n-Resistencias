@@ -2,7 +2,7 @@
 
 ## Descripción
 
-El objetivo del proyecto es desarrollar un algoritmo capaz de determinar el valor numérico de cada resistencia analizada. Para ello se procesan  40 imágenes de resistencias eléctricas en diferentes perspectivas, se aplica segmentación, transformaciones geométricas y detección de colores para las bandas de la resistencia.
+El objetivo del proyecto es desarrollar un algoritmo capaz de determinar el valor numérico de cada resistencia analizada. Para ello se procesan  40 imágenes de 10 resistencias eléctricas (4 por cada resistencia) en diferentes perspectivas, se aplica segmentación, transformaciones geométricas y detección de colores para las bandas de la resistencia.
 Cada resistencia tiene 4 bandas de colores:
 Las primeras 3 bandas definen el valor de la resistencia. 
 La cuarta banda (siempre dorada) se debe ignorar, está ligeramente mas separada que las demas.
